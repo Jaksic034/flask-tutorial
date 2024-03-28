@@ -32,7 +32,7 @@ export-env {
       }
     }
 
-    let virtual_env = 'P:\flask-tutorial\env'
+    let virtual_env = 'D:\flask-tutorial\env'
     let bin = 'Scripts'
 
     let is_windows = ($nu.os-info.family) == 'windows'
